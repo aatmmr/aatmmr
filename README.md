@@ -10,4 +10,4 @@ I am Maik and like seamless and sustainable DevOps experiences.
 
 #### / badges
 
-![](https://images.credly.com/size/150x150/images/50ac5cb1-f13a-4859-a480-a567f3bad4ca/image.png)
+![github-actions-small](https://github.com/aatmmr/aatmmr/assets/15815012/844d9813-13f5-476e-b093-4fd9d5ddf90b)
