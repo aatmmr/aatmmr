@@ -10,4 +10,6 @@ I am Maik and like seamless and sustainable DevOps experiences.
 
 #### / badges
 
-![github-actions-small](https://github.com/aatmmr/aatmmr/assets/15815012/844d9813-13f5-476e-b093-4fd9d5ddf90b)
+![github-foundations-for-non-developers_small](https://github.com/aatmmr/aatmmr/assets/15815012/4af5a126-0010-4d4b-b1d9-b25c64deb2b5)
+![github-actions_small](https://github.com/aatmmr/aatmmr/assets/15815012/c49b5c3b-a083-4d56-bd14-b711c489de56)
+
