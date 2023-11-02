@@ -1,6 +1,6 @@
 ### Hej 🖖
 
-I am Maik and like seamless and sustainable DevOps experiences.
+I am Maik and like seamless and sustainable DevOps and developer experiences.
 
 #### / facts
 
