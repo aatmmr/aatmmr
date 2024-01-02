@@ -4,7 +4,7 @@ I am Maik and like seamless and sustainable DevOps and developer experiences.
 
 #### / facts
 
-- I am part of [Xebia|Xpirit](https://xpirit.com)
+- I am part of [Xebia | Microsoft Services](https://xebia.com)
 - I am currently deep diving into GitHub
 - I am accredited trainer for GitHub
 - I am blogging at [aatmmr.dev](https://aatmmr.dev)
