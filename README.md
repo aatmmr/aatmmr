@@ -4,10 +4,10 @@ I am Maik and like seamless and sustainable DevOps and developer experiences.
 
 #### / facts
 
-- I am part of [Xebia | Microsoft Services](https://xebia.com)
-- I am deep diving into GitHub
-- I am accredited trainer for GitHub
-- I am blogging at [aatmmr.dev](https://aatmmr.dev)
+- Part of [Solidify](https://solidify.dev)
+- Deep diving into GitHub
+- Accredited trainer for GitHub
+- Blogging at [aatmmr.dev](https://aatmmr.dev)
 
 #### / badges
 
