@@ -4,7 +4,7 @@ I am Maik and like seamless and sustainable DevOps and developer experiences.
 
 #### / facts
 
-- Part of [Solidify](https://solidify.dev)
+- Principal Consultant at [Eficode](https://eficode.com)
 - Deep diving into GitHub
 - Accredited trainer for GitHub
 - Blogging at [aatmmr.dev](https://aatmmr.dev)
